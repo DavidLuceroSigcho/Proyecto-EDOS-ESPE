@@ -7,6 +7,8 @@
 #include <Vcl.Controls.hpp>
 #include <Vcl.StdCtrls.hpp>
 #include <Vcl.Forms.hpp>
+#include <Data.DB.hpp>
+#include <Data.Win.ADODB.hpp>
 //---------------------------------------------------------------------------
 class TForm1 : public TForm
 {
@@ -18,6 +20,8 @@ __published:	// IDE-managed Components
 	TEdit *Edit1;
 	TEdit *Edit2;
 	TLabel *Label3;
+	TADOConnection *ADOConnection1;
+	TADOQuery *ADOQuery1;
 	void __fastcall Button2Click(TObject *Sender);
 	void __fastcall Button1Click(TObject *Sender);
 private:	// User declarations

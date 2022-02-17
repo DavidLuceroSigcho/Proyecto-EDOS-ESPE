@@ -3,16 +3,45 @@
 	<Transactions>
     <Transaction>2022/02/16 00:23:41.000.129,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2022/02/16 00:23:41.000.586,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2022/02/16 00:33:55.000.695,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProjectEdos.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.h</Transaction>
+    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.cpp</Transaction>
+    <Transaction>2022/02/16 00:31:07.000.560,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Edos.dfm</Transaction>
+    <Transaction>2022/02/16 00:33:55.000.695,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProjectEdos.h</Transaction>
     <Transaction>2022/02/16 00:34:05.000.831,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>2022/02/16 00:49:03.000.437,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
     <Transaction>2022/02/16 01:36:57.000.477,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
     <Transaction>2022/02/16 01:44:25.000.825,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
-    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
-    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
-    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
-  </Transactions>
+    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2022/02/16 01:51:16.000.684,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit5.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2022/02/16 21:08:23.000.707,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit6.cpp</Transaction>
+    <Transaction>2022/02/16 22:12:42.000.801,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit6.cpp</Transaction>
+    <Transaction>2022/02/17 13:47:40.000.393,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit4.cpp</Transaction>
+    <Transaction>2022/02/17 15:09:13.000.079,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit3.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit7.h</Transaction>
+    <Transaction>2022/02/17 15:09:13.000.079,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit3.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit7.cpp</Transaction>
+    <Transaction>2022/02/17 15:09:13.000.079,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit3.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ProyectoEDOS\Unit7.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Edos.cpp"/>
+    <File Path="Edos.cpp"/>
+    <File Path="Edos.dfm"/>
+    <File Path="Edos.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="ProjectEdos.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+  </ProjectSortOrder>
 </BorlandProject>

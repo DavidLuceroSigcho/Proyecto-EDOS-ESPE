@@ -8,26 +8,26 @@
 #include <Vcl.StdCtrls.hpp>
 #include <Vcl.Forms.hpp>
 #include <Vcl.Menus.hpp>
+#include <Data.DB.hpp>
+#include <Data.Win.ADODB.hpp>
+#include <Vcl.DBGrids.hpp>
+#include <Vcl.Grids.hpp>
+#include <Vcl.DBCtrls.hpp>
 //---------------------------------------------------------------------------
-class TForm4 : public TForm
+class TForm5 : public TForm
 {
 __published:	// IDE-managed Components
-	TMainMenu *MainMenu1;
-	TMenuItem *Actualizacion1;
-	TMenuItem *Consulta1;
-	TMenuItem *Configuracion1;
-	TMenuItem *EDOS1;
-	TMenuItem *Usuario1;
-	TMenuItem *FamEdos1;
-	TMenuItem *EDOS2;
-	TMenuItem *Usuarios1;
-	TMenuItem *famEDOS2;
-	TMenuItem *Salir1;
+	TADOQuery *ADOQuery1;
+	TDBGrid *DBGrid1;
+	TLabel *Label1;
+	TDataSource *DataSource1;
+	TADOConnection *ADOConnection1;
+	void __fastcall FormClose(TObject *Sender, TCloseAction &Action);
 private:	// User declarations
 public:		// User declarations
-	__fastcall TForm4(TComponent* Owner);
+	__fastcall TForm5(TComponent* Owner);
 };
 //---------------------------------------------------------------------------
-extern PACKAGE TForm4 *Form4;
+extern PACKAGE TForm5 *Form5;
 //---------------------------------------------------------------------------
 #endif

@@ -4,6 +4,7 @@
 #pragma hdrstop
 
 #include "Unit3.h"
+#include "Unit6.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -14,3 +15,16 @@ __fastcall TForm3::TForm3(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
+void __fastcall TForm3::Button2Click(TObject *Sender)
+{
+  Close();
+  Form6 -> Show();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm3::FormClose(TObject *Sender, TCloseAction &Action)
+{
+Form6 -> Show();
+}
+//---------------------------------------------------------------------------
+
